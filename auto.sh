@@ -1,0 +1,1 @@
+curl -sL https://get.docker.com/ |sudo /bin/sh
